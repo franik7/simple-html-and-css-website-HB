@@ -1,0 +1,47 @@
+body {
+    background-color: lightskyblue;
+    text-align: center;
+
+}
+
+
+
+ul {
+    list-style-type: none;
+    
+}
+
+.question {
+    font-size: large;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+img{
+    width: 50%;
+    margin-bottom: 10px;
+    box-shadow: 10px -10px teal;
+    
+}
+
+img:hover {
+    transform: scale(1.05) 
+  }
+
+.item{
+    border: 5px solid white;
+    margin: 5px;
+    padding: 10px;
+}
+
+
+
+iframe {
+    width: 70%;
+    box-shadow: 10px -10px teal;
+    
+}
+
+iframe:hover {
+    transform: scale(1.03) 
+  }
